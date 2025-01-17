@@ -1,3 +1,9 @@
 .content {
-    margin: 0 auto 0 auto;
+  margin: auto;
+}
+@media screen and (max-width: 480px) {
+  .content {
+    margin: auto;
+    max-width: 282px;
+  }
 }
