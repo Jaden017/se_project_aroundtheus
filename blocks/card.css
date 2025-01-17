@@ -79,7 +79,3 @@
   opacity: 50%;
   transition: 0.2s ease-in;
 }
-
-.card__add-button_inactive {
-    opacity: 0.2;
-}
